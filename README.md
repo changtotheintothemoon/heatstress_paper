@@ -123,7 +123,3 @@ The analysis reveals that poultry heat stress research has evolved to focus spec
 - **Research Patterns**: Strong emphasis on "feed conversion ratio", "heat stressed broilers", "antioxidant capacity"
 
 The temporal analysis shows increasing research intensity, reflecting growing awareness of climate change impacts on poultry production and the need for targeted mitigation strategies.
-
-## Author
-
-Analysis scripts developed by GitHub Copilot (July 2025)
