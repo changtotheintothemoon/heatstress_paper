@@ -1,0 +1,8 @@
+biopython
+pandas
+scikit-learn
+gensim
+matplotlib
+nltk
+numpy
+seaborn
